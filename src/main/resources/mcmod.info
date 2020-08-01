@@ -1,0 +1,16 @@
+[
+{
+  "modid": "autol",
+  "name": "AutoL",
+  "description": "AutoL, a toxic revision of AutoGG",
+  "version": "0.1",
+  "mcversion": "1.8.9",
+  "url": "https://github.com/GalaxyMonster424/AutoL",
+  "updateUrl": "",
+  "authorList": ["GalaxyMonster424"],
+  "credits": "GalaxyMonster424",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
