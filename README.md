@@ -12,7 +12,9 @@ See [Releases][1]
 
 # Thanks
 [boomboompower][2] for the original [AutoGG][3] 
+
 [BGHDDevelopment][4] for [AutoGGJava8Remake][5] 
+
 [PandaHaxor][6] for [AutoGG ChineseSupport][7]
 
   [1]: https://github.com/GalaxyMonster424/AutoL/releases
